@@ -1,0 +1,6 @@
+model\Livro.class
+com\mycompany\bibliotecaweb\BibliotecaWeb.class
+repository\LivroRepository.class
+service\LivroService.class
+main\Main.class
+util\Conexao.class
